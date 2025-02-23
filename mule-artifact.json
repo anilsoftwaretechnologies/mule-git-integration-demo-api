@@ -2,5 +2,6 @@
   "minMuleVersion": "4.9.0",
   "javaSpecificationVersions": [
     "17"
-  ]
+  ],
+  "secureproperties": ["client_id, client_secret"]
 }
